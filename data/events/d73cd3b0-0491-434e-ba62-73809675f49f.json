@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "8ea39c2d-35eb-44c4-8fb5-75b67f13fcbd": {
+      "label": "auto",
+      "file_url": "https://media.dlib.indiana.edu/master_files/x633fq23z/auto.m3u8",
+      "duration": 4320,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Testing indiana manifest"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-03-24T22:41:32.647Z",
+  "created_by": "tanyaclement",
+  "label": "Q&A with retired Archivist of the United States David Ferriero",
+  "updated_at": "2026-03-24T22:41:32.647Z",
+  "updated_by": "tanyaclement",
+  "rights_statement": ""
+}
